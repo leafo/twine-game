@@ -24,8 +24,8 @@ I00
 sS'pos'
 p13
 (lp14
-I10
-aI10
+I8
+aI11
 asS'passage'
 p15
 (itiddlywiki
@@ -34,7 +34,7 @@ p16
 (dp17
 S'text'
 p18
-VYou stand in the woods as the wind howls. Snow begins to fall slowly. The sun has just passed the horizon.\u000a\u000a[[You need to create a fire]]
+VYou stand in a clearing surrounded by woods as the wind howls. Snow begins to fall slowly. The sun has just passed the horizon. You're feeling cold.\u000a\u000a[[You need to create a fire]]
 p19
 sS'tags'
 p20
@@ -108,7 +108,7 @@ VStoryAuthor
 p46
 sbsa(dp47
 g12
-I01
+I00
 sg13
 (lp48
 I233
@@ -145,7 +145,7 @@ VStoryTitle
 p57
 sbsa(dp58
 g12
-I00
+I01
 sg13
 (lp59
 I430
@@ -156,7 +156,7 @@ Tiddler
 p60
 (dp61
 g35
-VYou have on you a single strike anywhere match.\u000a\u000a[[Light the match]]
+VYou have on you a single strike anywhere match.\u000a\u000a[[Light the match]]\u000a[[Walk into the nearby woods]]
 p62
 sg37
 (lp63
@@ -185,17 +185,18 @@ g12
 I00
 sg13
 (lp70
-I570
-aI10
+I659
+aI35
 asg15
 (itiddlywiki
 Tiddler
 p71
 (dp72
 g35
-g2
+VYou strike the match on a nearby rock and it ignites with ease. The flame flickers as the stick of the match slowly burns away as you hold it.\u000a\u000a[[Light some leaves on the ground]]
+p73
 sg37
-(lp73
+(lp74
 sg39
 g23
 ((I2013
@@ -207,16 +208,164 @@ I8
 I5
 I334
 I0
-tp74
-(dp75
-tp76
-Rp77
+tp75
+(dp76
+tp77
+Rp78
 sg44
-g77
+g78
 sg45
 VLight the match
-p78
-sbsasS'scale'
 p79
+sbsa(dp80
+g12
+I00
+sg13
+(lp81
+I404
+aI291
+asg15
+(itiddlywiki
+Tiddler
+p82
+(dp83
+g35
+VYou ignite some leaves on the ground and they flame up with intense heat. Although the fire seems to start strong, the leaves burn too quicky to sustain fire and it goes out rather quickly.\u000a\u000aYou've used up your only match.\u000a\u000a[[...]]
+p84
+sg37
+(lp85
+sg39
+g23
+((I2013
+I11
+I30
+I23
+I37
+I49
+I5
+I334
+I0
+tp86
+(dp87
+tp88
+Rp89
+sg44
+g89
+sg45
+VLight some leaves on the ground
+p90
+sbsa(dp91
+g12
+I00
+sg13
+(lp92
+I624
+aI450
+asg15
+(itiddlywiki
+Tiddler
+p93
+(dp94
+g35
+VYou've lost your chance of starting a fire. You curl up on the ground and hope to conserve heat for the rest of the night.\u000a\u000aYou don't rise in the morning.\u000a\u000a[[Try again]]
+p95
+sg37
+(lp96
+sg39
+g23
+((I2013
+I11
+I30
+I23
+I39
+I1
+I5
+I334
+I0
+tp97
+(dp98
+tp99
+Rp100
+sg44
+g100
+sg45
+V...
+p101
+sbsa(dp102
+g12
+I00
+sg13
+(lp103
+I777
+aI232
+asg15
+(itiddlywiki
+Tiddler
+p104
+(dp105
+g35
+VTODO: reset state, goto start
+p106
+sg37
+(lp107
+sg39
+g23
+((I2013
+I11
+I30
+I23
+I39
+I56
+I5
+I334
+I0
+tp108
+(dp109
+tp110
+Rp111
+sg44
+g111
+sg45
+VTry again
+p112
+sbsa(dp113
+g12
+I00
+sg13
+(lp114
+I850
+aI10
+asg15
+(itiddlywiki
+Tiddler
+p115
+(dp116
+g35
+VIt's even darker with the canopy of trees covering out the dim light emitted by the moon. Even with your eyes adjusted to to the darkness you can see nothing other than black further into the woods. The subtle noises of the forest at night work their way into your ears as you consider the things that lurk beyond your sight.\u000a\u000aBefore you are the debris of the forest.\u000a\u000aApproach some fallen branches
+p117
+sg37
+(lp118
+sg39
+g23
+((I2013
+I11
+I30
+I23
+I52
+I56
+I5
+I334
+I0
+tp119
+(dp120
+tp121
+Rp122
+sg44
+g122
+sg45
+VWalk into the nearby woods
+p123
+sbsasS'scale'
+p124
 I1
 ss.
